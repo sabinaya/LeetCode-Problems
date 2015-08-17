@@ -12,4 +12,7 @@ Solved problems from leetcode.com
 9. Next permutation
 10. ZigZag conversion
 11. Longest Palindrome substring
-12. Longest substring without repaeating characters
+12. Shortest Palindrome
+13. Longest substring without repaeating characters
+14. The skyline problem
+15. valid Anagram
