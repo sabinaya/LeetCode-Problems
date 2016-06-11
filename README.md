@@ -1,6 +1,8 @@
 # LeetCode-Problems
 Solved problems from leetcode.com
 
+Starting June 12th, 2016
+
 1. Gray code
 2. Valid Sudoku
 3. Sudoku Solver
